@@ -22,6 +22,8 @@ Just copy the files from this package to the corresponding folder in your
 application folder.  For example, copy Ion_auth/config/ion_auth.php to
 application/config/ion_auth.php
 
+http://avenir.ro/authentication-system-with-ion-auth-and-ci3/lets-install-ion-auth-library/
+
 You can also copy the libraries and models directories into your third_party/ion_auth folder.  For example, copy  to /application/third_party/ion_auth/.  The directory structure would be:
 
     controllers/Auth.php
